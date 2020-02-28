@@ -1,1 +1,2 @@
-studet grade
+studet grad
+math english
